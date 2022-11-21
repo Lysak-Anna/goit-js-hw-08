@@ -1,7 +1,7 @@
 4293
 69E:\github projects\goit-js-hw-08\node_modules\css-select\lib\index.js133121657169065528 0
 96E:\github projects\goit-js-hw-08\node_modules\@parcel\core\test\PublicMutableBundleGraph.test.js133121657192221867 0
-45E:\github projects\goit-js-hw-08\package.json133135275334012564 0
+45E:\github projects\goit-js-hw-08\package.json133135298082492143 0
 95E:\github projects\goit-js-hw-08\node_modules\@parcel\source-map\parcel_sourcemap_node\index.js133121657170312607 0
 92E:\github projects\goit-js-hw-08\node_modules\electron-to-chromium\full-chromium-versions.js133121657159853012 0
 104E:\github projects\goit-js-hw-08\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\COPYRIGHT133121657157142169 0
@@ -11,7 +11,7 @@
 65E:\github projects\goit-js-hw-08\node_modules\nth-check\README.md133121657177052427 0
 62E:\github projects\goit-js-hw-08\node_modules\svgo\lib\svgo.js133121657188040805 0
 68E:\github projects\goit-js-hw-08\node_modules\parent-module\index.js133121657157042452 0
-37E:\github projects\goit-js-hw-08\dist133135265964085796 1
+37E:\github projects\goit-js-hw-08\dist133135298242527488 1
 106E:\github projects\goit-js-hw-08\node_modules\posthtml\node_modules\posthtml-parser\dist\chunk.2UQLUWPH.js133121657158005801 0
 73E:\github projects\goit-js-hw-08\node_modules\source-map\lib\array-set.js133121657164480114 0
 77E:\github projects\goit-js-hw-08\node_modules\caniuse-lite\data\regions\SZ.js133121657220180853 0
@@ -576,7 +576,7 @@
 93E:\github projects\goit-js-hw-08\node_modules\@swc\helpers\lib\_initializer_warning_helper.js133121657183912424 0
 79E:\github projects\goit-js-hw-08\node_modules\electron-to-chromium\package.json133121657172443739 0
 68E:\github projects\goit-js-hw-08\node_modules\safe-buffer\index.d.ts133121657164270687 0
-53E:\github projects\goit-js-hw-08\dist\01-gallery.html133135265963376385 0
+53E:\github projects\goit-js-hw-08\dist\01-gallery.html133135298242388395 0
 77E:\github projects\goit-js-hw-08\node_modules\caniuse-lite\data\regions\SE.js133121657219345923 0
 60E:\github projects\goit-js-hw-08\node_modules\yaml\schema.js133121657181688006 0
 78E:\github projects\goit-js-hw-08\node_modules\term-size\vendor\macos\term-size133121657162292947 0
@@ -1389,7 +1389,7 @@
 77E:\github projects\goit-js-hw-08\node_modules\caniuse-lite\data\regions\ML.js133121657214543330 0
 72E:\github projects\goit-js-hw-08\node_modules\node-addon-api\common.gypi133121657158836301 0
 63E:\github projects\goit-js-hw-08\node_modules\boolbase\index.js133121657158975937 0
-54E:\github projects\goit-js-hw-08\dist\03-feedback.html133135265963385939 0
+54E:\github projects\goit-js-hw-08\dist\03-feedback.html133135298242388395 0
 82E:\github projects\goit-js-hw-08\node_modules\simplelightbox\demo\img\thumb\02.jpg133121667113191339 0
 77E:\github projects\goit-js-hw-08\node_modules\caniuse-lite\data\regions\TD.js133121657220210462 0
 74E:\github projects\goit-js-hw-08\node_modules\@parcel\transformer-html\lib133121657166095250 1
@@ -1744,7 +1744,7 @@
 89E:\github projects\goit-js-hw-08\node_modules\caniuse-lite\data\features\mediarecorder.js133121657214383759 0
 72E:\github projects\goit-js-hw-08\node_modules\msgpackr-extract\README.md133121657176413700 0
 78E:\github projects\goit-js-hw-08\node_modules\msgpackr-extract\src\extract.cpp133121657164260700 0
-48E:\github projects\goit-js-hw-08\dist\index.html133135265963376385 0
+48E:\github projects\goit-js-hw-08\dist\index.html133135298242388395 0
 91E:\github projects\goit-js-hw-08\node_modules\msgpackr-extract\src\.vs\ProjectSettings.json133121657175574912 0
 75E:\github projects\goit-js-hw-08\node_modules\css-tree\lib\lexer\generic.js133121657184920382 0
 82E:\github projects\goit-js-hw-08\node_modules\msgpackr-extract\src\.vs\slnx.sqlite133121657177221970 0
@@ -1822,7 +1822,7 @@
 73E:\github projects\goit-js-hw-08\node_modules\domutils\lib\stringify.d.ts133121657178829622 0
 70E:\github projects\goit-js-hw-08\node_modules\lodash.throttle\index.js133121686456456804 0
 69E:\github projects\goit-js-hw-08\node_modules\lodash.throttle\LICENSE133121686456398207 0
-51E:\github projects\goit-js-hw-08\dist\02-video.html133135265963376385 0
+51E:\github projects\goit-js-hw-08\dist\02-video.html133135298242388395 0
 74E:\github projects\goit-js-hw-08\node_modules\lodash.throttle\package.json133121686456321860 0
 58E:\github projects\goit-js-hw-08\node_modules\css-what\lib133121657159743305 1
 74E:\github projects\goit-js-hw-08\node_modules\@swc\helpers\lib\_extends.js133121657182830247 0

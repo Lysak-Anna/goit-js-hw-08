@@ -13,9 +13,11 @@ const markUp = galleryItems.map(item =>
 const list = document.querySelector('.gallery');
 list.insertAdjacentHTML('beforeend', markUp);
 
-let gallery = new SimpleLightbox('.gallery a');
-gallery.options.captionsData = 'alt';
-gallery.options.captionDelay = 250;
+let gallery = new SimpleLightbox('.gallery a', {
+  captionsData: 'alt',
+  captionDelay: 250,
+});
+
 
 
 

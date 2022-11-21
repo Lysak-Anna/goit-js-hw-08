@@ -1,6 +1,5 @@
 import throttle from "lodash.throttle";
 
-
 const emailValue = document.querySelector('input');
 const textareaValue = document.querySelector('textarea');
 const submitFromForm = document.querySelector('.feedback-form');
@@ -31,7 +30,6 @@ function getDataFromStorage() {
     const parsedData = JSON.parse(savedData);
     
     if (savedData) {
-        
         emailValue.value = parsedData.email;
         textareaValue.value = parsedData.message;
     }

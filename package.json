@@ -2,7 +2,7 @@
   "name": "goit-js-hw-08",
   "version": "1.0.0",
   "description": "",
- 
+ "main": "index.js",
   "homepage": "https://lysak-anna.github.io/goit-js-hw-08/",
   "scripts": {
     "start": "parcel src/*.html",
@@ -26,5 +26,6 @@
     "@vimeo/player": "^2.18.0",
     "lodash.throttle": "^4.1.1",
     "simplelightbox": "^2.10.4"
-  }
+  },
+  "browserslist": "> 0.5%, last 2 versions, not dead"
 }

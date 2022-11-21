@@ -1,7 +1,7 @@
 4293
 69E:\github projects\goit-js-hw-08\node_modules\css-select\lib\index.js133121657169065528 0
 96E:\github projects\goit-js-hw-08\node_modules\@parcel\core\test\PublicMutableBundleGraph.test.js133121657192221867 0
-45E:\github projects\goit-js-hw-08\package.json133135265796302632 0
+45E:\github projects\goit-js-hw-08\package.json133135275334012564 0
 95E:\github projects\goit-js-hw-08\node_modules\@parcel\source-map\parcel_sourcemap_node\index.js133121657170312607 0
 92E:\github projects\goit-js-hw-08\node_modules\electron-to-chromium\full-chromium-versions.js133121657159853012 0
 104E:\github projects\goit-js-hw-08\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\COPYRIGHT133121657157142169 0

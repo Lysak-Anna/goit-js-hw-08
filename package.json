@@ -2,6 +2,7 @@
   "name": "goit-js-hw-08",
   "version": "1.0.0",
   "description": "",
+ 
   "homepage": "https://lysak-anna.github.io/goit-js-hw-08/",
   "scripts": {
     "start": "parcel src/*.html",
